@@ -1,9 +1,5 @@
-
 public class MojaPrva {
-
 	public static void main(String[] args) {
-		System.out.println("AHoj 4D");
-
+		System.out.println("Ahoj 4S");
 	}
-
 }
