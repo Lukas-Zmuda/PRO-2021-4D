@@ -17,10 +17,10 @@ public class Student {
 	
 	void vypisInfo() {
 		//TODO
-		//Meno: meno
-		//Priezvisko: priezvisko
-		//Vek: vek
-		//Pohlavie: pohlavieSlovom 
+		//Meno: Jan
+		//Priezvisko: Hrasko
+		//Vek: 44
+		//Pohlavie: muz 
 	}
 
 }
