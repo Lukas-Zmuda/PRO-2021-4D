@@ -12,6 +12,8 @@ public class Tester {
 		
 		Student s2 = new Student();
 		
+		System.out.println("Meno s1: " + s1.meno);
+		
 		s1.meno = "Fero";
 		s1.priezvisko = "Mravec";
 		s1.vek = 16;
@@ -25,6 +27,9 @@ public class Tester {
 		s1.vekInfo();
 		s2.vekInfo();
 		
+		Student s3 = new Student("Vcielka", "Maja", 68, 'z');
+		
+		s3.vypisInfo();
 		
 		
 		
